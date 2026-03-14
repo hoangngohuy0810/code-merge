@@ -1,0 +1,5 @@
+{
+  "name": "TS Code Merger",
+  "description": "Ứng dụng hợp nhất mã nguồn TypeScript (.ts), tự động xử lý xung đột tên biến và sắp xếp file tùy chỉnh.",
+  "requestFramePermissions": []
+}
